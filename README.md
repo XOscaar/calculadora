@@ -1,1 +1,3 @@
-ESTE PROGRAMA HACE MUCHAS COSAS, COMO SUMAR Y YA.
+
+ese proyecto va de sumar dos numeros
+
